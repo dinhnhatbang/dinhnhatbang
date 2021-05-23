@@ -10,11 +10,12 @@ I have many years of experiences in web application development and mobile appli
 * Message Queue: RabbitMQ, AWS SQS
 * Serverless: AWS Lamda Function
 * Mobile: React Native:
- * Luápos: https://github.com/luapos/luapos-mobile
- * Sợ Gì Làm Đó: https://sogilamdo.vn
+    * Luápos: https://github.com/luapos/luapos-mobile
+    * Sợ Gì Làm Đó: https://sogilamdo.vn
 * Framework: Symfony
- * Writetf: https://writetf.com
- * Luápos: https://github.com/luapos/luapos-web
+    * Writetf: https://writetf.com
+    * Luápos: https://github.com/luapos/luapos-web
 * Others: GDPR, Docker, Android Studio, Xcode, Kibana
 * 💬 Ask me anything
 * 📫 How to reach me: dinhnhatbang@gmail.com
+
