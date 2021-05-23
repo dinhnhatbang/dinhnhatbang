@@ -9,7 +9,7 @@ I have many years of experiences in web application development and mobile appli
 * Security: OWASP, Ethical Hacking
 * Message Queue: RabbitMQ, AWS SQS
 * Serverless: AWS Lamda Function
-* Mobile: React Native:
+* Mobile: React Native
     * Luápos: https://github.com/luapos/luapos-mobile
     * Sợ Gì Làm Đó: https://sogilamdo.vn
 * Framework: Symfony
@@ -18,4 +18,3 @@ I have many years of experiences in web application development and mobile appli
 * Others: GDPR, Docker, Android Studio, Xcode, Kibana
 * 💬 Ask me anything
 * 📫 How to reach me: dinhnhatbang@gmail.com
-
