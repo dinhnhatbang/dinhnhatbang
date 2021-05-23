@@ -6,7 +6,7 @@ I have many years of experiences in web application development and mobile appli
 * CI & CD: Terraform, Jenkins, AWS Cloudformation
 * Frontend: ReactJS
 * Database & Search Engine: MySQL, PostgreSQL, Elasticsearch 
-* Security: OWASP, Ethical Hacking
+* Data Privacy & Security: OWASP, Ethical Hacking, GDPR
 * Message Queue: RabbitMQ, AWS SQS
 * Serverless: AWS Lamda Function
 * Mobile: React Native
@@ -15,6 +15,6 @@ I have many years of experiences in web application development and mobile appli
 * Framework: Symfony
     * Writetf: https://writetf.com
     * Luápos: https://github.com/luapos/luapos-web
-* Others: GDPR, Docker, Android Studio, Xcode, Kibana
+* Others: Docker, Android Studio, Xcode, Kibana
 * 💬 Ask me anything
 * 📫 How to reach me: dinhnhatbang@gmail.com
