@@ -4,9 +4,13 @@ I have many years of experiences in web application development and mobile appli
 - Programming languages: PHP, Python, Javascript
 - Big data: AWS Glue, AWS EMR, PrestoDB, Apache Hive, Apache Spark, Alluxio
 - CI & CD: Terraform, Jenkins, AWS Cloudformation
-- Frontend: ReactJS, Bootstrap 4
+- Frontend: ReactJS
+- Database & Search Engine: MySQL, PostgreSQL, Elasticsearch 
+- Security: OWASP, Ethical Hacking
+- Message Queue: RabbitMQ, AWS SQS
+- Serverless: AWS Lamda Function
 - Mobile: React Native
 - Framework: Symfony, Spryker
-- Others: Docker, RabbitMQ, OAuth 2.0, Linux
+- Others: Docker, Android Studio, Xcode, Kibana
 - 💬 Ask me anything
 - 📫 How to reach me: dinhnhatbang@gmail.com
