@@ -9,8 +9,8 @@ I have many years of experiences in web application development and mobile appli
 - Security: OWASP, Ethical Hacking
 - Message Queue: RabbitMQ, AWS SQS
 - Serverless: AWS Lamda Function
-- Mobile: React Native (https://github.com/luapos/luapos-mobile)
-- Framework: Symfony (https://writetf.com), Spryker
+- Mobile: React Native (https://github.com/luapos/luapos-mobile https://sogilamdo.vn)
+- Framework: Symfony (https://writetf.com https://luapos.com), Spryker
 - Others: GDPR, Docker, Android Studio, Xcode, Kibana
 - 💬 Ask me anything
 - 📫 How to reach me: dinhnhatbang@gmail.com
