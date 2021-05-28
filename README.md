@@ -10,14 +10,14 @@ I have many years of experiences in web application development and mobile appli
 * Message Queue: RabbitMQ, AWS SQS
 * Serverless: AWS Lamda Function
 * Ecommerce: Spryker (https://spryker.com/en/)
-* Mobile: React Native
+* React Native
     * Luápos: https://github.com/luapos/luapos-mobile
         * Android: https://play.google.com/store/apps/details?id=com.luapos
         * IOS: https://apps.apple.com/us/app/luapos/id1554794936    
     * Sợ Gì Làm Đó:
         * Android: https://play.google.com/store/apps/details?id=vn.sogilamdo.sogilamdo
         * IOS: https://apps.apple.com/us/app/id1525720289
-* Framework: Symfony
+* Symfony Framework
     * Writetf: https://writetf.com
     * Luápos: https://github.com/luapos/luapos-web
     * Sợ Gì Làm Đó: https://sogilamdo.vn
