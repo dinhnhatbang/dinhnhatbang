@@ -9,6 +9,7 @@ I have many years of experiences in web application development and mobile appli
 * Data Privacy & Security: OWASP, Ethical Hacking, GDPR, Burp Proxy
 * Message Queue: RabbitMQ, AWS SQS
 * Serverless: AWS Lamda Function
+* Ecommerce: Spryker (https://spryker.com/en/)
 * Mobile: React Native
     * Luápos: https://github.com/luapos/luapos-mobile
     * Sợ Gì Làm Đó: https://sogilamdo.vn
