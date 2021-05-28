@@ -6,7 +6,7 @@ I have many years of experiences in web application development and mobile appli
 * CI & CD: Terraform, Jenkins, AWS Cloudformation
 * Frontend: ReactJS
 * Database & Search Engine: MySQL, PostgreSQL, Elasticsearch 
-* Data Privacy & Security: OWASP, Ethical Hacking, GDPR
+* Data Privacy & Security: OWASP, Ethical Hacking, GDPR, Burp Proxy
 * Message Queue: RabbitMQ, AWS SQS
 * Serverless: AWS Lamda Function
 * Mobile: React Native
