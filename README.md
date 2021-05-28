@@ -12,10 +12,15 @@ I have many years of experiences in web application development and mobile appli
 * Ecommerce: Spryker (https://spryker.com/en/)
 * Mobile: React Native
     * Luápos: https://github.com/luapos/luapos-mobile
-    * Sợ Gì Làm Đó: https://sogilamdo.vn
+        * Android: https://play.google.com/store/apps/details?id=com.luapos
+        * IOS: https://apps.apple.com/us/app/luapos/id1554794936    
+    * Sợ Gì Làm Đó:
+        * Android: https://play.google.com/store/apps/details?id=vn.sogilamdo.sogilamdo
+        * IOS: https://apps.apple.com/us/app/id1525720289
 * Framework: Symfony
     * Writetf: https://writetf.com
     * Luápos: https://github.com/luapos/luapos-web
+    * Sợ Gì Làm Đó: https://sogilamdo.vn
 * Others: Docker, Android Studio, Xcode, Kibana
 * 💬 Ask me anything
 * 📫 How to reach me: dinhnhatbang@gmail.com
