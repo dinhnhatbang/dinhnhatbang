@@ -18,7 +18,6 @@ I have many years of experiences in web application development and mobile appli
         * Android: https://play.google.com/store/apps/details?id=vn.sogilamdo.sogilamdo
         * IOS: https://apps.apple.com/us/app/id1525720289
 * Symfony Framework
-    * Writetf: https://writetf.com
     * Luápos: https://github.com/luapos/luapos-web
     * Sợ Gì Làm Đó: https://sogilamdo.vn
 * Others: Docker, Android Studio, Xcode, Kibana
