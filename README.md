@@ -1,25 +1,29 @@
 ### Hi I'm Bang 👋
 
-I have many years of experiences in web application development and mobile application development. Possesses practical knowledge in system design and optimization for high-performance and high security. Evaluate, monitor and enhance IT infrastructure with an emphasis on availability, reliability, scalability, security, data confidentiality and system integrity. A strong communicator with the ability to translate design requirements into actionable plans.
-* Programming languages: PHP, Python, Javascript
-* Big data: AWS Glue, AWS EMR, PrestoDB, Apache Hive, Apache Spark, Alluxio (https://github.com/dinhnhatbang/hive-presto-docker)
-* CI & CD: Terraform, Jenkins, AWS Cloudformation
-* Frontend: ReactJS
-* Database & Search Engine: MySQL, PostgreSQL, Elasticsearch 
-* Data Privacy & Security: OWASP, Ethical Hacking, GDPR, Burp Proxy
-* Message Queue: RabbitMQ, AWS SQS
-* Serverless: AWS Lamda Function
-* Ecommerce: Spryker (https://spryker.com/en/)
-* React Native
-    * Luápos: https://github.com/luapos/luapos-mobile
-        * Android: https://play.google.com/store/apps/details?id=com.luapos
-        * IOS: https://apps.apple.com/us/app/luapos/id1554794936    
-    * Sợ Gì Làm Đó:
-        * Android: https://play.google.com/store/apps/details?id=vn.sogilamdo.sogilamdo
-        * IOS: https://apps.apple.com/us/app/id1525720289
-* Symfony Framework
-    * Luápos: https://github.com/luapos/luapos-web
-    * Sợ Gì Làm Đó: https://sogilamdo.vn
-* Others: Docker, Android Studio, Xcode, Kibana
-* 💬 Ask me anything
-* 📫 How to reach me: dinhnhatbang@gmail.com
+With extensive experience in web application development and mobile application development, I bring a wealth of knowledge to the table. I possess practical expertise in system design and optimization, focusing on achieving high-performance and high-security standards. My skills lie in evaluating, monitoring, and enhancing IT infrastructure, prioritizing availability, reliability, scalability, security, data confidentiality, and system integrity. I am a strong communicator who excels at translating design requirements into actionable plans.
+
+Here are some areas of my expertise:
+
+👉 Programming languages & Framework: PHP, Symfony, Python, Node.js, Nest.js...
+👉 Big data: AWS Glue, AWS EMR, PrestoDB, Apache Hive, Apache Spark, Alluxio (https://github.com/dinhnhatbang/hive-presto-docker)
+👉 ETL & Tracking: Segment.io, Mixpanel, GA4, Google Search Console, Google Tag Manager, Facebook Pixel, Google Adwords...
+👉 Database & Search Engine: MySQL, PostgreSQL, Elasticsearch
+👉 Data Privacy & Security: OWASP, Ethical Hacking, GDPR, Burp Proxy
+👉 Message Queue: RabbitMQ, AWS SQS
+👉 Serverless: AWS Lambda Function
+👉 Ecommerce: Spryker, Akeneo PIM, Makaira, Shopify
+👉 Mobile: React Native
+👉 Others: Docker, Android Studio, Xcode, Kibana
+
+Feel free to ask me anything, and if you'd like to get in touch, you can reach me at dinhnhatbang@gmail.com. Phone/Zalo: +84906807975
+
+Check out my work on:
+
+📱 Google Play:
+https://play.google.com/store/apps/dev?id=4740927288972419651&hl=en
+https://play.google.com/store/apps/details?id=vn.sogilamdo.sogilamdo&hl=en
+
+🍏 Apple Store:
+https://apps.apple.com/vn/developer/bang-dinh/id1525720291
+
+I'm eager to connect and collaborate!
