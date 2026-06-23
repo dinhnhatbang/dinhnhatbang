@@ -19,13 +19,4 @@ Feel free to ask me anything, and if you'd like to get in touch, you can reach m
 - Email: dinhnhatbang@gmail.com
 - Phone: +84906807975
 
-Check out my work on:
-
-📱 Google Play:
-- https://play.google.com/store/apps/dev?id=4740927288972419651&hl=en
-- https://play.google.com/store/apps/details?id=vn.sogilamdo.sogilamdo&hl=en
-
-🍏 Apple Store:
-- https://apps.apple.com/vn/developer/bang-dinh/id1525720291
-
 I'm eager to connect and collaborate!
