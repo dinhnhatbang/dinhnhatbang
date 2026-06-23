@@ -1,22 +1,17 @@
 ### Hi I'm Bang 👋
 
-With extensive experience in web application development and mobile application development, I bring a wealth of knowledge to the table. I possess practical expertise in system design and optimization, focusing on achieving high-performance and high-security standards. My skills lie in evaluating, monitoring, and enhancing IT infrastructure, prioritizing availability, reliability, scalability, security, data confidentiality, and system integrity. I am a strong communicator who excels at translating design requirements into actionable plans.
+An engineering leader blending 10+ years of backend architecture with modern AI integration. I enjoy the full lifecycle of product building—from untangling complex ETL pipelines to mentoring high-performing teams. Passionate about shipping AI solutions that quietly make people's jobs easier, rather than just chasing the hype.
 
-Here are some areas of my expertise:
+SKILLS 
+- AI & ML: DeepFace, LangChain, Ollama, OpenCV.
+- Languages & Frameworks: Python, Node.js, Next.js, NestJS, PHP, Symfony.
+- Big Data Technologies: EMR, PrestoDB.
+- ETL & Tracking: Segment.io, Mixpanel, GA4, Google Tag Manager.
+- Databases: MySQL, PostgreSQL, Elasticsearch.
+- Cloud & Serverless: AWS (Lambda, SQS, S3, EC2), Azure (Functions, Key Vault, AVD).
+- Security & DevOps: OWASP, GDPR, Docker, Kubernetes (K8s), RabbitMQ.
 
-- Programming languages & Framework: PHP, Symfony, Python, Node.js, Nest.js...
-- Big data: AWS Glue, AWS EMR, PrestoDB, Apache Hive, Apache Spark, Alluxio (https://github.com/dinhnhatbang/hive-presto-docker)
-- ETL & Tracking: Segment.io, Mixpanel, GA4, Google Search Console, Google Tag Manager, Facebook Pixel, Google Adwords...
-- Database & Search Engine: MySQL, PostgreSQL, Elasticsearch
-- Data Privacy & Security: OWASP, Ethical Hacking, GDPR, Burp Proxy
-- Message Queue: RabbitMQ, AWS SQS
-- Serverless: AWS Lambda Function
-- Ecommerce: Spryker, Akeneo PIM, Makaira, Shopify
-- Mobile: React Native
-- Others: Docker, Android Studio, Xcode, Kibana
+Contact:
+dinhnhatbang@gmail.com
+(+84) 0906807975
 
-Feel free to ask me anything, and if you'd like to get in touch, you can reach me at 
-- Email: dinhnhatbang@gmail.com
-- Phone: +84906807975
-
-I'm eager to connect and collaborate!
